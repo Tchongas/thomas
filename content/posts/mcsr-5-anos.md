@@ -41,15 +41,19 @@ Around September 2020, an opportunity came up to help a tournament that was bein
 
 **It's been 5 years**, and I am still here. I didn't expect to be here for so long, I didn't expect half the things I did. But even it being a small community in a children's game, the fact that I helped and will continue to help give out more than **R$9,000** to players without ever getting a sponsor, only the love and donations from the community that plays this game, is something that I am proud of.
 
-There are a lot of things I could write about, but I will only write small texts about the ones that matter, i could use pages and pages to share all the experiences and things I did in every tournament and event, but I dont have that time.
+This will be a little summary about most tournaments I helped create, I could write all the experiences all the arguments the fights, the small minigame events, showcases, but that's for another time.
 
-It is weird having something you started doing as a 15 year old have such a lasting impact on your life, but I will never complain.
+It's weird having something you started doing as a 15 year old have such a lasting impact on your life, but I will never complain about that.
 
 ## MCSR 1.7 Tournament
 
-While I'm not going to explain how the speedrun works, the tournament is very simple: it is in Minecraft 1.7 version, 2 players create worlds using the same world seed, the first one to beat the Ender Dragon wins that round, first to win 2 rounds wins the match and moves on in the bracket. This format is the default, it's used in almost all the tournaments.
+I'm not going to explain how the speedrun works.
 
-The part where I was called to help is finding and filtering seeds. Me and the 3 other people that were doing this had a list of around **10,000 seeds** that could be good. We got them using a program that reverse engineered the world creation process, but after that we had to check manually if the seed was actually good or not.
+The tournament is very simple: it is in Minecraft 1.7 version, 2 players create worlds using the same world seed, the first one to beat the Ender Dragon wins that round, first to win 2 rounds wins the match and moves on in the bracket. 
+
+This format is the default, it's used in almost all tournaments, but with some tweaks, best of 3, best of 5, with loser bracket etc.
+
+The part where I asked to help with is finding and filtering seeds. Me and the 3 other people that were doing this had a list of around **10,000 seeds** that could be good. We got them using a program that reverse engineered the world creation process, but after that we had to check manually if the seed was actually good or not.
 
 ![Spreadsheet with all the seeds that we checked](/images/image.png)
 
