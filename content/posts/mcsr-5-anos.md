@@ -41,7 +41,9 @@ Around September 2020, an opportunity came up to help a tournament that was bein
 
 **It's been 5 years**, and I am still here. I didn't expect to be here for so long, I didn't expect half the things I did. But even it being a small community in a children's game, the fact that I helped and will continue to help give out more than **R$9,000** to players without ever getting a sponsor, only the love and donations from the community that plays this game, is something that I am proud of.
 
-There are a lot more things I could write about, but I will only write about the ones that matter.
+There are a lot of things I could write about, but I will only write small texts about the ones that matter, i could use pages and pages to share all the experiences and things I did in every tournament and event, but I dont have that time.
+
+It is weird having something you started doing as a 15 year old have such a lasting impact on your life, but I will never complain.
 
 ## MCSR 1.7 Tournament
 
