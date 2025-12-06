@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://tchongas.red/"
+title: Thomas Bocalon
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -16,7 +16,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Thomas
-  description: "ExampleSite description"
+  description: "Website for me to write whatever I want"
   keywords: [Blog, Portfolio, Projects]
   author: Me
   # author: ["Me", "You"] # multiple authors
