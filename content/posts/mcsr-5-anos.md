@@ -35,9 +35,9 @@ cover:
 
 All these Minecraft tournaments are Speedrunning tournaments - we call it **MCSR** (Minecraft Speedrunning) for short.
 
-I have always been a Minecraft fan, and around the end of 2019, I started speedrunning. Not long after the COVID-19 lockdown started, I began talking more to the community, learned how to speak English better, and got to know a lot of people that I still talk to this day.
+I have always been a Minecraft fan, **and around the end of 2019**, I started speedrunning. Not long after the **COVID-19 lockdown started**, I began talking more to the community, learned how to speak English better, and got to know a lot of people that I still talk to this day.
 
-Around September 2020, an opportunity came up to help a tournament that was being organized. Because Marco, one of the only Brazilian players that knew me, was one of the people organizing it, I got a chance to help make something really cool and I took it.
+Around **September 2020**, an opportunity came up to help a tournament that was being organized. Because Marco, one of the only Brazilian players that knew me, was one of the people organizing it, *I got a chance to help make something really cool and I took it.**
 
 **It's been 5 years**, and I am still here. I didn't expect to be here for so long, I didn't expect half the things I did. But even it being a small community in a children's game, the fact that I helped and will continue to help give out more than **R$9,000** to players without ever getting a sponsor, only the love and donations from the community that plays this game, is something that I am proud of.
 
@@ -69,14 +69,14 @@ In this tournament I also had the chance to be a commentator of a match, which I
 
 ## Copa Brasileira 1.16
 
-**Months later** After a Brazilian community Discord was created, we wanted to make a tournament, everyone was pretty new to this, but there was a lot of players that wanted to play and watch, so we started organizing.  
+**Months later** After a Brazilian community Discord was created, we wanted to make a tournament, everyone was pretty new to this, but there was a lot of players that wanted to play and watch, **so we began working**.  
 
 This tournament was bound to have issues. We had a small staff since the Brazilian community is smaller, everyone was doing a little bit of everything, **but no one knew how to do anything**. The staff was made up of people aged 12 to 21 years old, so you can guess how that went.
 
 This time I had more things to do: check the seeds, make the overlays for the Twitch livestream, be the stream tech, organize with the players to know when they can play, make the bracket, commentate matches, and more. 
 **Everyone was doing a little bit of everything, which means no one was doing things right.**
 
-This was the first tournament of our community, we had a lot of problems to fix.
+This was the first tournament of our community, **we had a lot of problems to fix.**
 
 **Some examples:**
 
@@ -348,13 +348,13 @@ These are still used for some events that aren't in the usual formats, such as m
 
 ## XandeHR 2 Backend
 
-Weeks before the XandeHR event, Alexandre contacted me to know about how his tournament could work. He had around 500k seeds he needed to put on some database, where then the players would open a link and get a random seed from that database, this would be his way to filter seeds.
+Weeks before the **XandeHR event**, Alexandre contacted me to know about how his tournament could work. He had around **500k seeds** he needed to put on some database, where then the players would open a link and get a random seed from that database, this would be his way to filter seeds.
 
 I made a very simple version to show how it could be done, but a mutual friend said he had it covered using a fancier stack. He ended up doing it, and it didn't work.
 
 The stack he had was a simple Node front-end and a **Firebase DB**.
 
-Firebase is good for some situations, but not in the situation where you need to **INSERT 500k rows**, then have 12 people fetching them over the course of 24 hours. The free version of Firebase has very strict limits, and when they tried testing it, it just didn't work, 500k rows on 1 table was too much for the Firebase free plan.
+Firebase is good for some situations, but not in the situation where you need to **INSERT 500k rows**, then have 12 people fetching them over the course of **24 hours**. The free version of Firebase has very strict limits, and when they tried testing it, it just didn't work, 500k rows on 1 table was too much for the Firebase free plan.
 
 Alexandre sent me a message around **1 AM**, asking if I still had that simple example I made a while ago, and I helped him make a version that actually worked.
 
