@@ -41,7 +41,7 @@ Around September 2020, an opportunity came up to help a tournament that was bein
 
 **It's been 5 years**, and I am still here. I didn't expect to be here for so long, I didn't expect half the things I did. But even it being a small community in a children's game, the fact that I helped and will continue to help give out more than **R$9,000** to players without ever getting a sponsor, only the love and donations from the community that plays this game, is something that I am proud of.
 
-This will be a little summary about most tournaments I helped create, I could write all the experiences all the arguments the fights, the small minigame events, showcases, but that's for another time.
+This will be a little summary about most tournaments I helped create, I could write all the experiences, all the arguments, the fights, the small minigame events, showcases, but that's for another time.
 
 It's weird having something you started doing as a 15 year old have such a lasting impact on your life, but I will never complain about that.
 
@@ -49,9 +49,9 @@ It's weird having something you started doing as a 15 year old have such a lasti
 
 I'm not going to explain how the speedrun works.
 
-The tournament is very simple: it is in Minecraft 1.7 version, 2 players create worlds using the same world seed, the first one to beat the Ender Dragon wins that round, first to win 2 rounds wins the match and moves on in the bracket. 
+**The tournament is very simple:** it is in Minecraft version 1.7, 2 players create worlds using the same world seed, the first one to beat the Ender Dragon wins that round, first to win 2 rounds wins the match and moves on in the bracket. 
 
-This format is the default, it's used in almost all tournaments, but with some tweaks, best of 3, best of 5, with loser bracket etc.
+**This format is the default**, it's used in almost all tournaments, but with some tweaks, best of 3, best of 5, with loser bracket etc.
 
 The part where I asked to help with is finding and filtering seeds. Me and the 3 other people that were doing this had a list of around **10,000 seeds** that could be good. We got them using a program that reverse engineered the world creation process, but after that we had to check manually if the seed was actually good or not.
 
@@ -59,7 +59,7 @@ The part where I asked to help with is finding and filtering seeds. Me and the 3
 
 It was a boring process. We checked the quality of each seed based on whether it had the necessary items, food, terrain generation, structure generation, and more. In the end we manually checked around **2,000 seeds**, with around **90 of them being actually good**.
 
-In this tournament I also had the chance to be a commentator of a match, which I was very nervous about since it was in English and I was 15 years old. But it was a lot of fun, and there is this funny clip of my dog barking in the livestream with 100+ people:
+In this tournament I also had the chance to be a commentator of a match, which I was very nervous about since it was in English and I was 15 years old. But it was a lot of fun, and there is this funny clip of my dog barking in the livestream with **100+ people**:
 
 [Watch on Twitch](https://www.twitch.tv/minecraftjavaspeedrunning/clip/FuriousElegantBottleChocolateRain?filter=clips&range=all&sort=time)
 
@@ -73,9 +73,10 @@ In this tournament I also had the chance to be a commentator of a match, which I
 
 This tournament was bound to have issues. We had a small staff since the Brazilian community is smaller, everyone was doing a little bit of everything, **but no one knew how to do anything**. The staff was made up of people aged 12 to 21 years old, so you can guess how that went.
 
-This time I had more things to do: check the seeds, make the overlays for the Twitch livestream, be the stream tech, organize with the players to know when they can play, make the bracket, commentate matches, and more. Everyone was doing a little bit of everything, which means no one was doing things right.
+This time I had more things to do: check the seeds, make the overlays for the Twitch livestream, be the stream tech, organize with the players to know when they can play, make the bracket, commentate matches, and more. 
+**Everyone was doing a little bit of everything, which means no one was doing things right.**
 
-This was the first tournament where I had to actually deal with technical issues and problems with the players, all of them stuck in my mind so I don't repeat them in the future.
+This was the first tournament of our community, we had a lot of problems to fix.
 
 **Some examples:**
 
@@ -84,9 +85,9 @@ This was the first tournament where I had to actually deal with technical issues
 - **Bad communication with players** - about match times, rules, format, etc.
 - **Technical problems** - maps and other resources we made to improve matches weren't working
 
-A problem that people still remember is when SpectroPlayer, a popular YouTuber, lost a match, didn't understand the format of the tournament, then didn't respond to any of our messages asking him to schedule his next match. This led to the whole tournament stalling for a while, and a lot of people having resentments towards him, something that eventually made him and another YouTuber leave the community.
+A problem that people still remember is when **SpectroPlayer**, a popular YouTuber, lost a match, didn't understand the format of the tournament, then didn't respond to any of our messages asking him to schedule his next match. This led to the whole tournament stalling for a while, and a lot of people having resentments towards him, something that eventually made him and another YouTuber leave the community.
 
-We didn't handle it in the correct way, we made a small witch hunt instead of just making a time limit and just disqualifying him, no fight should have happened, no angry comments, its just minecraft, people have other things to do.
+We didn't handle it welly, we made a small witch hunt instead of just making a time limit and just disqualifying him, no fight should have happened, no angry comments, its just minecraft, people have other things to do.
 
 [Watch on Twitch](https://www.twitch.tv/minecraftspeedrunbrasil/clip/GiftedLovelyPizzaTwitchRPG-q0Lzj4my6ReKUlyM?filter=clips&range=all&sort=time)
 ![Screenshot of the tournament](/images/clip2.png)
@@ -130,7 +131,7 @@ My contribution to this event was in **XandeHR 2**, where the system to get the 
 
 ## Copa Brasileira 1.16 2
 
-This was the second edition of the tournament that first took place 2 years ago. This time we wanted to do something bigger: a prizepool, more viewers, and just a better looking tournament.
+This was the second edition of the tournament that first took place in 2021. This time we wanted to do something bigger: a prizepool, more viewers, and just a better looking tournament.
 
 **We had:**
 
@@ -147,9 +148,8 @@ This was the second edition of the tournament that first took place 2 years ago.
 - **Different Communities** - Just because both communities were centered around speedrunning didn't mean that we would get along. We were 2 completely different communities that wanted to do things in different ways. They were a old community, they have been around for longer and have different opinions, 2 different generations.
 
 
-One small funny issue that happened, was that one Staff member wanted to have known members of the community to be comentators of the last matches, but without talking to any of the other admins first, and one of the people he invited was someone that everyone hated, made fun of and he didnt even play the game, but the admin didnt know this, he just thought it was someone that everyone liked since everyone talked about him.
-
-But this was resolved, no fights, we just "revoked" the invite to be a comentator.
+**One funny issue that happened**, a Staff member wanted to have known members of the community to be comentators of the last matches, but without talking to any of the other admins first, and one of the people he invited was someone that everyone hated and made fun of, he didnt even play the game, but the admin didnt know this, he just thought it was someone that everyone liked since everyone talked about him.
+We removed him last second.
 
 [Watch on Twitch](https://www.twitch.tv/speedrunsbrasil/clip/PlausibleAmusedStarNononoCat-W1zmCPwukttspMnV?filter=clips&range=all&sort=time)
 
@@ -171,11 +171,11 @@ It's hard to explain this one. The version 1.14 isn't that fun to play for the a
 - **Low viewership** - the community didn't want to watch it, it was boring
 - **Dropouts** - people signed up but changed their minds last second
 
-A lot of matches were played, players didnt want to practice or just properly learn the strats, some players were there just to fill in the spots, they didnt want to play at all, but the 4 people that really liked the version were super competitive and there was this huge imbalance on the players.
+A lot of matches were played, but **players didnt want to practice or learn the strats**, some players were there just to fill in the spots, they didnt want to play at all, **but the 4 people that really liked the version were super competitive.**
 
-**Some matches had no commentator, no one cared, no one was watching**. It got to the point where no one wanted to host, play, or do anything, and the community didn't want to watch it. I contacted everyone who donated to the prizepool, explained the situation, they agreed to use the money for other tournaments, and it was cancelled.
+**Some matches had no commentator, no one cared, no one was watching**. It got to the point where no one wanted to host, play, or do anything, and the community didn't want to watch it. I contacted everyone who donated to the prizepool, explained the situation, they agreed to use the money for other tournaments, **and it was cancelled**.
 
-This made some players sad, since they saw the tournament as a easy way to get money, this tournament left some scars on some people, but it was better for the community.
+This made some players sad, since they saw the tournament as a easy way to get money, this tournament left some scars on some people, **but it was better for the community**.
 
 [Watch on Twitch](https://www.twitch.tv/minecraftspeedrunbrasil/clip/PoisedSparklingBubbleteaWOOP-kFfdf8OoACz9fdHE?filter=clips&range=all&sort=time)
 
@@ -185,15 +185,15 @@ This made some players sad, since they saw the tournament as a easy way to get m
 
 ## BTRL 3
 
-This was in December of 2023, a Break The Record Live event. At first with only **R$123** in prizepool, but then we got a donation for **R$1,000** for the person who beats the Brazilian record, valid until the end of 2023, the biggest prizepool up to that point.
+This was in **December of 2023**, a Break The Record Live event. At first with only **R$123** in prizepool, but then we got a donation for **R$1,000 for the person who beats the Brazilian record**, valid until the end of 2023, **the biggest prizepool up to that point**.
 
-This was a funny event, it was supposed to be something small, to last a few days, but that donation changed everything since there was a lot of people that had the skill to get **R$1,000**, but it didnt last long before someone got the brazilian record.
+This was a funny event, it was supposed to be something small, but that donation changed everything since there was a lot of people that had the skill to get **R$1,000**, but it didn't last long before someone got the brazilian record.
 
-**Boosterruns** was the one to claim the prize on the second day of the event. No one else came close, so he "went home" with an extra 1k in his pocket. This event was pretty much the "start" of a new era, with tournaments with bigger prizes, better quality of production, and the overall skill of the players getting better.
+**Boosterruns** was the one to claim the prize on the **second day of the event**. No one else came close, so he "went home" with an extra 1k in his pocket.
 
-The biggest challenge of this one was the livestream. I coded something to make changing who was the main player on the livestream easier, but we still had the problem of rendering 5 720p 30fps streams at the same time on our computer, that just didn't work that well since no one had a good enough PC for that.
+**The biggest challenge of this one was the not crashing the livestream**. I coded something to make changing who was the main player on the livestream easier, but we still had the problem of rendering 5 720p 30fps streams at the same time on our computer, that just didn't work that well since no one had a good enough PC for that.
 
-This left the desire for more events like this, that last a month, and not just a few days, so people can properly grind for the record, which we delivered in the next years.
+This left the desire for more events like this, that last a long time, not just a few days, so people can properly grind for a record, which we delivered in the next years.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=F2CzLdY34zM)
 
@@ -251,11 +251,11 @@ I also wanted to make sure that the tournament revived the community a bit. I wa
 - **Bracket prediction prize** - we used the website Challonge, which has a feature where anyone can make a prediction on the results of every match. The one who got the closest got a month of Discord Nitro. Bigger stakes for every match, even the ones that people didn't care a lot about
 - **Losers bracket** - everyone got at least 2 matches, making it a little bit more fun for the people that didn't have a chance to win
 
-People really liked this tournament. It had a prizepool of **R$800** and was a success. The only problem was scheduling issues, there were only 2 staff members, and I got extremely sick for a week. We couldn't change things in the middle of the tournament, but we made a better system to schedule matches in the next one.
+People really liked this tournament. It had a prizepool of **R$800** and was a success. The only problem was scheduling issues, there were **only 2 staff members**, and I got extremely sick for a week. We couldn't change things in the middle of the tournament, but we made a better system to schedule matches in the next one.
 
-I was too forgiving with the players, I let them schedule when they wanted, instead of putting them in time slots first, and talk to them later, this lead to some players not playing for 2 weeks, because everytime they had some minor issue, they would just say "I can't play", while others got out of their 9-5 and started playing.
+I was too forgiving with the players, I let them schedule when they wanted, instead of putting them in time slots first, and talk to them later, this lead to some players not playing for 2 weeks, **because everytime they had some minor issue, they would just say "I can't play", while others got out of their 9-5 and started playing.**
 
-One player in particular always had something to do every hour, it got to the point where we realised he just did not want to play, and he forfeited the match isntead of dragging it out even longer.
+One player in particular always had something to do every day, it got to the point where we just asked him to forfeit.
 
 ![Winner of the tournament](/images/clip5.png)
 
@@ -265,15 +265,15 @@ One player in particular always had something to do every hour, it got to the po
 
 Same idea as the other BTRLs but with coop runs.
 
-It went well, no issues on the hosting or with the players. This tournament was mainly organized by another admin, and he made the prizepool be **R$500** without talking with the other admins, so when the announcement was made, it couldn't be changed. It isn't a lot of money if you think about the other events, but this event would only last a weekend for a speedrun category that very few people care about in the world.
+It went well, no issues on the hosting or with the players. This tournament was mainly organized by another admin, and he made the prizepool be **R$500** without talking with the other admins, so when the announcement was made, it couldn't be changed. It isn't a lot of money if you think about the other events, but this event would only last a weekend for a speedrun category that **very few** people care about in the world.
 
-On the player side, there were some of the issues mentioned in the coop tournament from the beginning: lag and other connection issues, firewall blocking, problems with the ISP, etc.
+On the player side, there were some of the issues mentioned in the coop tournament from the beginning: **lag and other connection issues, firewall blocking, problems with the ISP,** but nothing that was our fault.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=YrSVzVm7u68)
 
 ![BTRL COOP](/images/clip6.png)
 
-> **Overall** The quality of the event wasn't as good as I wanted, but no one complained, the stream half the time had nothing on it, since everyone sleeps, and there was no good system to change streams.
+> **Overall** The quality of the event wasn't as good as I wanted, but no one complained, the stream  had nothing on it half the time, since everyone sleeps, and there was no good system to change streams.
 
 ## BTRL 4
 
@@ -294,11 +294,11 @@ This one had actually no issues, honestly a miracle.
 
 ![BTRL 4](/images/clip7.png)
 
-The biggest issue is that sometimes the connection to twitch timed out, everytime this happened we "lost frames" and the delay increases, if we lost too many frames, the stream became unwatchable, becuause it would start lagging so much the stream would freeze.
+**The biggest issue** is that sometimes the connection to twitch timed out, everytime this happened we "lost frames" and the delay increases, if we lost too many frames, the stream became unwatchable, **because it would start lagging so much the stream would freeze.**
 
-I wish there was more to talk about this one, but it went well, the livestream ran 24/7, I had to make some ajustments along the way, but other than that I just watched people play, comentate some runs that were on good pace.
+I wish there was more to talk about this one, but it went well, **the livestream ran 24/7**, I had to make some ajustments along the way, but other than that I just watched people play and comentate some runs that were on good pace.
 
-In the end no one beat the brazilian record, which is a shame, no one got the R$500 bonus.
+In the end no one beat the brazilian record, which is a shame, no one got the **R$500** bonus.
 
 > **At the end everybody was exhausted, some were happy that they won money, some were sad that they missed out on somethin big, but it was an amazing event.**
 
@@ -306,21 +306,21 @@ In the end no one beat the brazilian record, which is a shame, no one got the R$
 
 There was a big wave of new players, and I wanted to make something just for them, to show them what tournaments are, and maybe ignite a flame inside them to become very competitive players. With a small prizepool of **R$200**, just so they get a taste.
 
-The Serie B was a single elimination tournament with a group stage of 16 players, then a bracket with 12. Everyone in this tournament was pretty new to the game, but there was a big skill gap between some.
+The Serie B was a **single elimination** tournament with a **group stage of 16 players**, then a **bracket with 12**. Everyone in this tournament was pretty new to the game, but there was a big skill gap between some.
 
-One of the biggest challenges was making sure that the tournament was fair and that the bracket was fair, that it could be fun for all players. This meant that a lot of the bracket didn't follow a system and was instead hand-picked. Not the most normal thing to do, but this tournament was more about being fun and fair for everyone. 
+**One of the biggest challenges** was making sure that the tournament was fair and that the bracket was fair, that it could be fun for all players. This meant that a lot of the bracket didn't follow a system and was instead hand-picked. Not the most normal thing to do, but this tournament was more about being fun and fair for everyone. 
 
-We had some problems because the **best player in the tournament had to forfeit because his computer broke** right as the group stage finished, this meant that someone that should have been eliminated was qualified, and someone that should have been the **top 1** for his group is now eliminated, so there is 1 group where there are 2 beginners and 1 average player for this tournament. This caused some issues because there was no way a bracket could be fair for everyone, but I tried fixing it the best I could.
+We had some problems because the **best player in the tournament had to forfeit because his computer broke** right as the group stage finished, this meant that someone that should have been eliminated was qualified, and someone that should have been the **top 1** for his group is now eliminated, so there is **1 group where there are 2 beginners and 1 average player for this tournament**, making them really weak. This caused some issues because **there was no way a bracket could be fair for everyone**, but I tried fixing it the best I could.
 
 **On the technical side**
 
-We improved a lot of things from the last tournament: better stream setup, better design. 
+We improved a lot of things from the last tournament: **better stream setup, better design**. 
 
 But the biggest thing was a program I made called **ROBS** 
 
 - **It Remotely controls an OBS instance.** 
 - Since our staff team is small, we do a lot of things at once, the person who is hosting is also commentating, or making the match for the players, or anything else. Me being able to completely control the stream that is being hosted at another staff's setup helps a lot.
-- **I made a new server to be the "Waiting room"** - it now has some minigames to make people play there and appear on stream, which was a success and we will be using it in all future tournaments or live events, it was a good way to make people not open the stream and immediately leave because the tournament didnt start yet.
+- **I made a new Lobby server to be the "Starting soon..."** - it now has some minigames to make people play there and appear on stream, which was a success and we will be using it in all future tournaments or live events, it was a good way to make people not open the stream and immediately leave because the tournament didnt start yet.
 - **Discord bot for fake Bets** - People on the Discord server could bet a fake currency on things that could happen in the tournament, making it more interesting for the people that aren't playing.
 
 [Watch on Twitch](https://www.twitch.tv/minecraftspeedrunbrasil/clip/CarefulDeadClipsdadShazBotstix-n8lgzks2nSy8siyc?filter=clips&range=all&sort=time)
@@ -365,7 +365,7 @@ Alexandre sent me a message around **1 AM**, asking if I still had that simple e
 - The moment the server started, it read the seeds file and put all the seeds in memory in an array
 - The `/seed` endpoint would return a random seed from the array and remove it so it wouldn't be repeated
 
-The biggest problem with this was that it didn't remove the seed from the actual file, so if the server crashed or needed to be restarted, it would repeat seeds. But this wasn't a big deal since even if it happened, the chances of the same person getting the same seed twice are low, and even if the person got it, the chances of noticing are even lower.
+The biggest problem with this was that it didn't remove the seed from the actual file, so if the server crashed or needed to be restarted, it would repeat seeds, but it was only 24 hours so we took the risk.
 
 To get the seeds in the game we used **AutoHotKey**, it fetches the API, formats the JSON to get the seed, and copies and pastes it in the world creation input.
 
@@ -379,9 +379,9 @@ I wanted to make the BTRL 24/7, and there was a simple path to do that.
 
 **The idea was simple:**
 
-1. Whitelist all the players that will be playing in the BTRL in the JS of a website
-2. The website is just the Twitch player, a good looking overlay, and a leaderboard
-3. If a player is in a good pace, we replace whoever is on the screen with them
+1. Whitelist all the players that will be playing in the BTRL in the JS of a HTML page
+2. The website is just the Twitch embed player, a good looking overlay, and a leaderboard
+3. If a player is in a good pace, we replace whoever is on the twitch embed with them
 4. Add some timeouts for this pace, some safeguards, and we have a 24/7 stream that always shows who has the best pace
 
 **There were 2 leaderboards:**
@@ -399,9 +399,9 @@ I wanted to make the BTRL 24/7, and there was a simple path to do that.
 
 It was made for the Copa BR Serie B tournament because of one issue we always had in past tournaments: every time we want to change who is streaming the tournament, they need to download a font, a lot of images, fix resolution issues, fix the transitions, it was overall hard to have the same exact overlay over a lot of computers because something always changed in this process.
 
-**To fix this issue**, I wanted to make an overlay "plug n play" where you don't need to download anything. To achieve this I took advantage of the **Browser Source**, I could just make each piece of the overlay an HTML file, host them on GitHub, and the text and state of each one be a parameter in the URL, like `?player1="NameHere"`. This method worked. I didn't need to download anything, I can just copy the browser sources that are going to be the same always since they don't use anything related to your computer. But then I had the problem of actually editing the URL parameters, because OBS doesn't have a good input to change that, so that's what the initial version of ROBS did: better inputs to change the URL parameters.
+**To fix this issue**, I wanted to make an overlay **"Plug & Play"** where you don't need to download anything. To achieve this I took advantage of the **Browser Source**, I could just make each piece of the overlay an HTML file, host them on GitHub, and the text and state of each one be a parameter in the URL, like `?player1="NameHere"`. This method worked. I didn't need to download anything, I can just copy the browser sources that are going to be the same always since they don't use anything related to your computer. But then I had the problem of actually editing the URL parameters, because OBS doesn't have a good input to change that, so that's what the initial version of ROBS did: **better inputs to change the URL parameters.**
 
-After that I began adding support to more sources, more than just the URL parameters: volume, media players, normal text, start/stop stream, and eventually the remote support, which proved to be really useful.
+After that I began adding support to more sources, more than just the URL parameters: volume, media players, normal text, start/stop stream, and eventually the remote support, **which proved to be really useful.**
 
 This program also allows me to only show some sources (only the ones that start with a `_`). This isn't a privacy or security change, with the websocket the user still has access to everything, it's just a way to organize the "front-end" of your overlay in a better way. Things that don't change don't need to be in the controls.
 
