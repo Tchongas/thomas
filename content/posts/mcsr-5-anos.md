@@ -87,7 +87,7 @@ This was the first tournament of our community, **we had a lot of problems to fi
 
 A problem that people still remember is when **SpectroPlayer**, a popular YouTuber, lost a match, didn't understand the format of the tournament, then didn't respond to any of our messages asking him to schedule his next match. This led to the whole tournament stalling for a while, and a lot of people having resentments towards him, something that eventually made him and another YouTuber leave the community.
 
-We didn't handle it welly, we made a small witch hunt instead of just making a time limit and just disqualifying him, no fight should have happened, no angry comments, its just minecraft, people have other things to do.
+We didn't handle it well, we made a small witch hunt instead of just making a time limit and disqualifying him, no fight should have happened, no angry comments, its just minecraft, people have other things to do.
 
 [Watch on Twitch](https://www.twitch.tv/minecraftspeedrunbrasil/clip/GiftedLovelyPizzaTwitchRPG-q0Lzj4my6ReKUlyM?filter=clips&range=all&sort=time)
 ![Screenshot of the tournament](/images/clip2.png)
