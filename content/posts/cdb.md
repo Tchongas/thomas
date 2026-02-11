@@ -38,7 +38,7 @@ I've been organizing and running these types of events for more than **5 years**
 
 The concept was inspired by [Midoffs](https://www.youtube.com/watch?v=NlzotpkrDVc), an online Minecraft speedrunning tournament where all the players are streamers and YouTubers who have **never done speedrunning before**. They would get a week to train, paired with a coach who actually speedruns, to help them prepare.
 
-A month passed and the idea started to take shape. Pancks' team reached out to all the content creators, explained the event, and asked if they wanted to join. Meanwhile, **me, Alexandre, and Ferrer** would work on the technical side: brackets, stream setup, overlays, and everything in between.
+A month passed and the idea started to take shape. Pancks' team reached out to all the content creators, explained the event, and asked if they wanted to join. Meanwhile, **me, Alexandre, and Ferrer** would work on the technical side: brackets, stream setup, overlays, and everything in between, but Ferrer was also a coach, so his contributions were very limited.
 
 The event was scheduled to start **Jan 31** and end **Feb 1**.
 
