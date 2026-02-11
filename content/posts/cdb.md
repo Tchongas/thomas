@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "I was one of the main staff, stream operator, and caster of a Minecraft tournament for Brazilian YouTubers and streamers that thousands of people watched."
+description: "I was one of the main staff for a Minecraft tournament for Brazilian Streamers that thousands of people watched. Here is a lot of things that we did from behind the scenes, and some of the problems we had!"
 canonicalURL: ""
 disableShare: true
 disableHLJS: false
