@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "I was one of the main staff for a Minecraft tournament for Brazilian Streamers that thousands of people watched. Here is a lot of things that we did from behind the scenes, and some of the problems we had!"
+description: "I was one of the organizers of a Minecraft tournament for Brazilian Streamers that thousands of people watched. Here is a lot of things that we did from behind the scenes, and some of the problems we had!"
 canonicalURL: ""
 disableShare: true
 disableHLJS: false
@@ -38,7 +38,7 @@ I've been organizing and running these types of events for more than **5 years**
 
 The concept was inspired by [Midoffs](https://www.youtube.com/watch?v=NlzotpkrDVc), an online Minecraft speedrunning tournament where all the players are streamers and YouTubers who have **never done speedrunning before**. They would get a week to train, paired with a coach who actually speedruns, to help them prepare.
 
-A month passed and the idea started to take shape. Pancks' team reached out to all the content creators, explained the event, and asked if they wanted to join. Meanwhile, **me, Alexandre, and Ferrer** were working on the technical side: brackets, stream setup, overlays, and everything in between.
+A month passed and the idea started to take shape. Pancks' team reached out to all the content creators, explained the event, and asked if they wanted to join. Meanwhile, **me, Alexandre, and Ferrer** would work on the technical side: brackets, stream setup, overlays, and everything in between.
 
 The event was scheduled to start **Jan 31** and end **Feb 1**.
 
