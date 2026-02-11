@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
+    <title>Posts on Thomas Bocalon</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <description>Recent content in Posts on Thomas Bocalon</description>
     <image>
-      <title>ExampleSite</title>
+      <title>Thomas Bocalon</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Organizing and Running an Event Full of Big YouTubers</title>
+      <link>http://localhost:1313/posts/cdb/</link>
+      <pubDate>Mon, 09 Feb 2026 11:30:03 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cdb/</guid>
+      <description>I was one of the main staff, stream operator, and narrator of a Minecraft tournament for Brazilian YouTubers and streamers that thousands of people watched.</description>
+    </item>
+    <item>
       <title>5 Years of Organizing Minecraft Tournaments</title>
-      <link>http://localhost:1313/posts/mcsr/</link>
+      <link>http://localhost:1313/posts/mcsr-5-anos/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mcsr/</guid>
-      <description>Thinking back on how this small project now has evolved to the point where I paid out thousands to players</description>
+      <guid>http://localhost:1313/posts/mcsr-5-anos/</guid>
+      <description>Thinking back on how this small project now has evolved to the point where I gave thousands to minecraft players</description>
     </item>
   </channel>
 </rss>

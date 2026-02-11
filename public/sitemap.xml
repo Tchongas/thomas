@@ -2,13 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/mcsr/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>http://localhost:1313/tags/event/</loc>
+    <lastmod>2026-02-09T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>http://localhost:1313/tags/minecraft/</loc>
+    <lastmod>2026-02-09T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/cdb/</loc>
+    <lastmod>2026-02-09T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-09T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/speedrunning/</loc>
+    <lastmod>2026-02-09T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-09T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-09T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mcsr-5-anos/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
@@ -16,7 +31,5 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
