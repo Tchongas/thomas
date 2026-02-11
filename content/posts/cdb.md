@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: true
 comments: false
-description: "I was one of the main staff, stream operator, and narrator of a Minecraft tournament for Brazilian YouTubers and streamers that thousands of people watched."
+description: "I was one of the main staff, stream operator, and caster of a Minecraft tournament for Brazilian YouTubers and streamers that thousands of people watched."
 canonicalURL: ""
 disableShare: true
 disableHLJS: false
@@ -175,7 +175,7 @@ At the End we just let everyone join in to have some fun
 
 We pulled this off by having a friend act as our **Cameragirl**. She streamed her POV on Twitch, and our main broadcast was just her feed with extra components overlaid on top, like the chat and other info.
 
-The **Match Stream** itself was simpler: both player streams side by side, their names, MC heads, coach names, a timer, the chat, and a panel showing the narrators. For the narrator display, we used **Discord WebKit with custom CSS** to show our Minecraft heads animating when we talked. It looked clean.
+The **Match Stream** itself was simpler: both player streams side by side, their names, MC heads, coach names, a timer, the chat, and a panel showing the casters. For the caster display, we used **Discord WebKit with custom CSS** to show our Minecraft heads animating when we talked. It looked clean.
 
 ![Match overlay](/images/matchoverlay.png)
 
